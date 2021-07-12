@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Sunday Tech Adda\\GraphQLBasic\\GraphQLBasic\\GraphQLBasic.csproj": {}
+  },
+  "projects": {
+    "D:\\Sunday Tech Adda\\GraphQLBasic\\GraphQLBasic\\GraphQLBasic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sunday Tech Adda\\GraphQLBasic\\GraphQLBasic\\GraphQLBasic.csproj",
+        "projectName": "GraphQLBasic",
+        "projectPath": "D:\\Sunday Tech Adda\\GraphQLBasic\\GraphQLBasic\\GraphQLBasic.csproj",
+        "packagesPath": "C:\\Users\\Naimul Karim\\.nuget\\packages\\",
+        "outputPath": "D:\\Sunday Tech Adda\\GraphQLBasic\\GraphQLBasic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Naimul Karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.pmie2e.net/repository/PMI.Service.Shared/": {},
+          "https://nuget.pkg.github.com/lekolabs/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore.SystemTextJson": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

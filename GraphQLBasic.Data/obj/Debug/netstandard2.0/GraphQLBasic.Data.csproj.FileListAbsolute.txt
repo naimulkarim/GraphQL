@@ -1,0 +1,9 @@
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\bin\Debug\netstandard2.0\GraphQLBasic.Data.deps.json
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\bin\Debug\netstandard2.0\GraphQLBasic.Data.dll
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\bin\Debug\netstandard2.0\GraphQLBasic.Data.pdb
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\obj\Debug\netstandard2.0\GraphQLBasic.Data.csprojAssemblyReference.cache
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\obj\Debug\netstandard2.0\GraphQLBasic.Data.AssemblyInfoInputs.cache
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\obj\Debug\netstandard2.0\GraphQLBasic.Data.AssemblyInfo.cs
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\obj\Debug\netstandard2.0\GraphQLBasic.Data.csproj.CoreCompileInputs.cache
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\obj\Debug\netstandard2.0\GraphQLBasic.Data.dll
+D:\Sunday Tech Adda\GraphQLBasic\GraphQLBasic.Data\obj\Debug\netstandard2.0\GraphQLBasic.Data.pdb
